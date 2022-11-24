@@ -1,2 +1,2 @@
-This is an edit to the README file.
-updated 11-25-2022
+# alx-pre_course
+I'm now a ALX Student
